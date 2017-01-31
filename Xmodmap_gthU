@@ -1,0 +1,14 @@
+!! alt+d = δ Δ
+keysym d = d D d D U03B4 U0394
+!! alt+t = ™
+keysym t = t T t T U2122
+!! alt+i = ∞ ‽
+keysym i = i I i I U221E U203D
+!! alt+l = λ Δ
+keysym l = l L l L U03BB U039B
+!! alt+h = ❤ ♥ 
+keysym h = h H h H U2764 U2665
+!! alt+shift+c = ☭ 
+keysym c = c C c C rightarrow U262D
+!! alt+shift+. = …
+keysym period = period colon period colon bracketright U2026
